@@ -1,0 +1,18 @@
+
+
+.img{
+    height: 70px;
+    width: 140px;
+    margin-top:1px ;
+    border-radius:0 80% 0 80%  ;
+    mix-blend-mode: white;
+
+}
+
+.img:hover{
+
+    /* border-radius: 70% 0 70% 0 ; */
+    border-radius:70% 70% 70% 70%  ;
+}
+
+
